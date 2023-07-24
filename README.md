@@ -1,1 +1,1 @@
-Hi there
+Hi there, this was my first time navigating around VS Code with GitHub
